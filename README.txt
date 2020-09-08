@@ -15,4 +15,4 @@ The YouTube Comment Sentiment Analysis program has the following parts:
    -> Run the notebook.
    -> Done!
    
-If you are interested to know how the model was trained please go to the "training" folder and follow instruction there.
+If you are interested to know how the model was trained please go to the "training" folder and follow the instructions there.
